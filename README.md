@@ -6,7 +6,7 @@ I'm Pakin jinjai, a Junior Developer passionate about creating awesome web appli
 - 🌱 I'm continuously learning and expanding my skills in HTML5, CSS3, TailwindCSS, SwaggerUI (DocumentAPI), and Figma for design.
 - 💼 I have experience in Node.js, Express.js, MySQL, and MongoDB for data management, as well as building RESTful APIs and collaborating on Git/GitHub.
 - 💡 I'm eager to develop my skills further and explore new technologies.
-- 📫 You can reach me at [pakin.281244@gmail.com](mailto:pakin.281244@gmail.com).
+- 📫 You can reach me at [pakin.281244@gmail.com](mailto:pakin.281244@gmai.com).
 
 Feel free to connect with me! Let's collaborate and create something amazing together. 😄
 
